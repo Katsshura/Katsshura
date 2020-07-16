@@ -16,4 +16,3 @@ Hi there, my name is Emerson Alves and I'm an Analyst Developer. I've been fasci
   - Flutter
   - IoT (Arduino)
 ---
-https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white
