@@ -10,9 +10,6 @@
 Hi there, my name is Emerson Alves and I'm an Analyst Developer. I've been fascinated by programming since I first joined college of information system and from there to now i've never stopped learning about this world of technology. My career objective is to become a Software Architect.
 
 - :books: Currently studying ([Currently Project](https://github.com/Katsshura/IoT-House-Automation)):
-  - Microservices Architecture using C#, Java, Node.JS and GoLang for development
-  - Messaging Broker (RabbitMQ)
-  - Docker
-  - Flutter
-  - IoT (Arduino)
+  - Microservices Architecture using C# and Java
+  - Message Broker (RabbitMQ)
 ---
