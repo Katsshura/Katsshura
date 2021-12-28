@@ -7,9 +7,7 @@
 
 ## Hello, how you doing? 👋
 
-Hi there, my name is Emerson Alves and I'm an Analyst Developer. I've been fascinated by programming since I first joined college of information system and from there to now i've never stopped learning about this world of technology. My career objective is to become a Software Architect.
+Hi there, my name is Emerson Alves and I'm a Software Engineer. I've been fascinated by programming since I first joined college and since that time i've never stopped learning about this world of technology.
 
-- :books: Currently studying ([Currently Project](https://github.com/Katsshura/IoT-House-Automation)):
-  - Microservices Architecture using C# and Java
-  - Message Broker (RabbitMQ)
+Feel free to leave your constructive opnion in any of my projects 💙
 ---
