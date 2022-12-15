@@ -7,7 +7,9 @@
 
 ## Hello, how you doing? 👋
 
-Hi there, my name is Emerson Alves and I'm a Software Engineer. I've been fascinated by programming since I first joined college and since that time i've never stopped learning about this world of technology.
+Hi there, my name is Emerson Alves and I'm a Software Engineer. I've been fascinated by programming since I first joined college and since that time i've never stopped learning about this world of technology. 
+
+On the pins bellow you can find the projects I've build that I'm most proud of. Each one of them had some key learning or a difficulty that had to be overcome. 
 
 Feel free to leave your constructive opnion in any of my projects 💙
 ---
